@@ -1,0 +1,14 @@
+W:\junlajak.wans\W2\Monster_Hunt\Monster_Hunt\bin\Debug\net8.0\Monster_Hunt.exe
+W:\junlajak.wans\W2\Monster_Hunt\Monster_Hunt\bin\Debug\net8.0\Monster_Hunt.deps.json
+W:\junlajak.wans\W2\Monster_Hunt\Monster_Hunt\bin\Debug\net8.0\Monster_Hunt.runtimeconfig.json
+W:\junlajak.wans\W2\Monster_Hunt\Monster_Hunt\bin\Debug\net8.0\Monster_Hunt.dll
+W:\junlajak.wans\W2\Monster_Hunt\Monster_Hunt\bin\Debug\net8.0\Monster_Hunt.pdb
+W:\junlajak.wans\W2\Monster_Hunt\Monster_Hunt\obj\Debug\net8.0\Monster_Hunt.GeneratedMSBuildEditorConfig.editorconfig
+W:\junlajak.wans\W2\Monster_Hunt\Monster_Hunt\obj\Debug\net8.0\Monster_Hunt.AssemblyInfoInputs.cache
+W:\junlajak.wans\W2\Monster_Hunt\Monster_Hunt\obj\Debug\net8.0\Monster_Hunt.AssemblyInfo.cs
+W:\junlajak.wans\W2\Monster_Hunt\Monster_Hunt\obj\Debug\net8.0\Monster_Hunt.csproj.CoreCompileInputs.cache
+W:\junlajak.wans\W2\Monster_Hunt\Monster_Hunt\obj\Debug\net8.0\Monster_Hunt.dll
+W:\junlajak.wans\W2\Monster_Hunt\Monster_Hunt\obj\Debug\net8.0\refint\Monster_Hunt.dll
+W:\junlajak.wans\W2\Monster_Hunt\Monster_Hunt\obj\Debug\net8.0\Monster_Hunt.pdb
+W:\junlajak.wans\W2\Monster_Hunt\Monster_Hunt\obj\Debug\net8.0\Monster_Hunt.genruntimeconfig.cache
+W:\junlajak.wans\W2\Monster_Hunt\Monster_Hunt\obj\Debug\net8.0\ref\Monster_Hunt.dll
